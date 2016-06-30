@@ -1,0 +1,2 @@
+# SolitaireBlitz
+init text
